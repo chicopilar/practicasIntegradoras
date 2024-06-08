@@ -1,0 +1,12 @@
+{
+  "name": "practicasintegradoras",
+  "version": "1.0.0",
+  "main": "practica1.js",
+  "scripts": {
+    "start": "node --watch practica1.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
